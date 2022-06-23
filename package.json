@@ -1,0 +1,7 @@
+{
+  "name": "testing_starter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloominstituteoftechnology/web_code_along_15.2_testing_starter.git"
+  }
+}
