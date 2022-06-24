@@ -1,4 +1,4 @@
-# Code-Along 15.2 - Testing Starter
+# Code-Along 15.2 - Testing
 
 ## Requirements
 
